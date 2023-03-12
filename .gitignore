@@ -38,3 +38,7 @@ bin
 .idea/
 .vscode/
 *.iml
+
+# nix
+.direnv
+result
